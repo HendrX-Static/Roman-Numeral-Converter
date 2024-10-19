@@ -22,20 +22,20 @@ Welcome to the **Roman Numeral Converter**! This project allows you to convert R
    java Project
 
 4. **Follow the On-Screen Prompts:**
-   >Type 1: Convert a Roman numeral to an integer.
-   >Type 2: Convert an integer to a Roman numeral.
-   >Type 3: Exit the program.
+- Type 1: Convert a Roman numeral to an integer.
+- Type 2: Convert an integer to a Roman numeral.
+- Type 3: Exit the program.
 
 ## Code Explanation
 
->The rti class converts Roman numerals to integers.
->The itr class converts integers to Roman numerals.
->The Project class contains the main method, which provides a user-friendly interface for conversions.
+- The rti class converts Roman numerals to integers.
+- The itr class converts integers to Roman numerals.
+- The Project class contains the main method, which provides a user-friendly interface for conversions.
 
 ## Limitations
 
->The program can handle integers up to 3999.
->Roman numerals must be valid and within the accepted range.
+- The program can handle integers up to 3999.
+- Roman numerals must be valid and within the accepted range.
 
 ## Contributing
 
